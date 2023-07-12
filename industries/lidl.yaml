@@ -1,9 +1,9 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 71
 id: 0
 layout:
 - - - -1
@@ -11,8 +11,8 @@ layout:
   - - -1
     - -1
 name: 'Lidl '
-placement: anywhere
-probabilityInGame: 5
+placement: in-town
+probabilityInGame: 10
 probabilityMapGen: 3
 prospectChance: 75
 tiles: []
